@@ -1,0 +1,7 @@
+Metric,Random,TS Sim,TS Real
+Total Interactions,13591.0,13591.0,8162.0
+Unique Users,100.0,100.0,70.0
+Cumulative Mean Reward,0.5337,0.7872,0.6359
+Reward 1 % (Yes),47.22,72.67,57.84
+Reward 2 % (Yes but not feasible),12.3,12.1,11.5
+Reward 3 % (No),40.48,15.22,30.65
